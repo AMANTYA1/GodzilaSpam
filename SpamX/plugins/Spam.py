@@ -21,7 +21,6 @@ from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from SpamX import omfo, omfo2, omfo3, omfo4, omfo5 , omfo6, omfo7, omfo8, omfo9, omfo10, omfo11, omfo12, omfo13, omfo14, omfo15, omfo16, omfo17, omfo18, omfo19, omfo20, omfo21, omfo22, omfo23, omfo24, omfo25, omfo26, omfo27, omfo28, omfo29, omfo30, omfo31, omfo32, omfo33, omfo34, omfo35, omfo36, omfo37, omfo38, omfo39, omfo40, SUDO_USERS
 from .. import CMD_HNDLR as hl
-from resources.data import SpamX
 
 
 # spam
